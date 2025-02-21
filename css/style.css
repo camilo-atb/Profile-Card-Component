@@ -51,7 +51,7 @@ body{
 
 .profil__img{
     position: absolute;
-    bottom: -30%; 
+    bottom: -34%; 
     left: 50%;
     transform: translateX(-50%);
     display: block;
